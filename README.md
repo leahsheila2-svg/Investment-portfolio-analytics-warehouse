@@ -40,7 +40,7 @@ staging → raw ingestion layer (future pipeline-ready)
 core → cleaned relational tables
 analytics → reporting and KPI layer
 
-Client Table: Represents investors across different regions.
+- Client Table: Represents investors across different regions.
 BENEFIT:
 -- Improves scalability and mirrors real enterprise data
 -- warehouse structure used in financial analytics platforms.
@@ -56,7 +56,7 @@ ANALYTICS QUESTIONS SUPPORTED:
 -- How many active clients exist in the portfolio?
 -- Client distribution across regions?
 
-Investments (Fact Table): Captures capital allocation per client.
+- Investments (Fact Table): Captures capital allocation per client.
 PURPOSE:
 -- Stores portfolio investment transactions linked to clients.
 -- Acts as the primary fact table supporting portfolio analytics,
@@ -72,7 +72,7 @@ ANALYTICS QUESTIONS SUPPORTED:
 -- How is portfolio risk distributed across clients?
 -- Which clients hold the largest investment positions?
 
-Assets (Classification Table): Standardizes asset classes 
+- Assets (Classification Table): Standardizes asset classes 
  PURPOSE:
 -- Standardizes asset types into structured categories
 -- for portfolio segmentation and analytics grouping.
