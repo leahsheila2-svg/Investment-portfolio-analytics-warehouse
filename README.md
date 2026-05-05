@@ -177,7 +177,7 @@ Minimum Investment: 252 Million
 Business Insight:
 These KPIs provide a high-level snapshot of portfolio scale and distribution, highlighting extremes in client investment behavior and overall capital size.
 
-## 📊 Portfolio Dashboard Preview
+## Portfolio Dashboard Preview
 
 <img src="https://github.com/user-attachments/assets/3956e0ca-98cd-41bc-b002-507b893702cf" width="900"/>
 
