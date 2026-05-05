@@ -177,10 +177,6 @@ Minimum Investment: 252 Million
 Business Insight:
 These KPIs provide a high-level snapshot of portfolio scale and distribution, highlighting extremes in client investment behavior and overall capital size.
 
-PHASE: BI VISUALIZATION LAYER 
-Dashboard Preview
-<img src="YOUR-LINK-HERE" width="900"/>
-
 CONCLUSION: 
 This project delivers an end-to-end Investment Portfolio solution built using SQL for data analytics and BI for data visualization and insight delivery.
 The SQL layer establishes a structured and reliable analytics warehouse by transforming raw investment data into a well-modeled dataset. Through defined relationships, data validation, and aggregation logic.
